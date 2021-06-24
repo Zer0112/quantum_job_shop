@@ -1,1 +1,1 @@
-[a relative link](example1.html)
+[example1](example1.html)
