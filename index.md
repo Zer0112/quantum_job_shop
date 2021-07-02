@@ -1,4 +1,5 @@
 [example1](example1.html)
+[example2](example2.html)
 [jit example](example3.html)
 [complex example-no valid solution dwave](example4.html)
 [Skalierung](scaling_experiment.html)
